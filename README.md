@@ -736,7 +736,7 @@ Static generate table: https://contributors-table-generator.vercel.app/
   </tbody>
 </table>
 
-## 🤝 Contributing
+## Contributing
 
 <a href="https://github.com/midudev/esland-web/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=midudev/esland-web" />
